@@ -1,0 +1,6 @@
+github.com/xybor-x/xycond v0.0.0-20220901043621-c68af596b26f h1:ScbaR2k7EZZOb3yoADpQJkEv9bb67L8syq4DbqkKLCY=
+github.com/xybor-x/xycond v0.0.0-20220901043621-c68af596b26f/go.mod h1:PuDr8bAjLq9M2/rgAo5o+IBa+gYZryWhop9XtGiHVOo=
+github.com/xybor-x/xyerror v0.0.0-20220901042203-f9c9aa62f89b h1:U47bSUaMa6UbbW+Tdi8P29r6yTw40UkjNrz8nQRqKtQ=
+github.com/xybor-x/xyerror v0.0.0-20220901042203-f9c9aa62f89b/go.mod h1:GziY0Y0oIPYk9hCI7JoFcnDvQhO9S4EdTqIyhh8iFO0=
+golang.org/x/sync v0.0.0-20220819030929-7fc1605a5dde h1:ejfdSekXMDxDLbRrJMwUk6KnSLZ2McaUCVcIKM+N6jc=
+golang.org/x/sync v0.0.0-20220819030929-7fc1605a5dde/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
